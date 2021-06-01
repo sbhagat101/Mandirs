@@ -1,0 +1,828 @@
+{
+   "data": [
+        {
+            "address": [
+                31.600410,
+                -84.054558
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/863BAPS_ALBANY,_GA.jpg",
+            "name": "Albany, GA"
+        },
+        {
+            "address": [
+                42.715939,
+                -73.804901
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/12albanymandirf.jpg",
+            "name": "Albany, NY"
+        },
+        {
+            "address": [
+                40.620009,
+                -75.281883
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/1264Allentown.JPG",
+            "name": "Allentown"
+        },
+        {
+            "address": [
+                33.885590,
+                -84.162560
+            ],
+            "image": "https://www.baps.org/Data/Sites/1/Media/ModuleRotatorImages/IMG_5741.JPG",
+            "name": "Atlanta"
+        },
+        {
+            "address": [
+                39.454464,
+                -74.530737
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/14atlantic-city.jpg",
+            "name": "Atlantic City"
+        },
+        {
+            "address": [
+                33.592168,
+                -82.119477
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/16augusta1f.jpg",
+            "name": "Augusta"
+        },
+        {
+            "address": [
+                30.4086415,
+                -97.6931104
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/15austinmandirf.jpg",
+            "name": "Austin"
+        },
+        {
+            "address": [
+                30.0633691,
+                -94.1894632
+            ],
+            "image":"https://www.baps.org/Data/Sites/1/Media/GalleryImages/20241/WebImages/02.__Beaumont_Inauguration.jpg",
+            "name": "Beaumont"
+        },
+        {
+            "address": [
+                33.586049,
+                -86.69429
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/17birmingham01f.jpg",
+            "name": "Birmingham"
+        },
+        {
+            "address": [
+                40.4972901,
+                -88.9044079
+            ],
+            "image": "https://www.baps.org/Data/Sites/1/Media/GalleryImages/9350/WebImages/01___ReQOTQ0.jpg",
+            "name": "Bloomington"
+        },
+        {
+            "address": [
+                42.6279509,
+                -71.3485938
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/18boston.jpg",
+            "name": "Boston"
+        },
+        {
+            "address": [
+                51.096078,
+                -113.998511
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/901Calgary.jpg",
+            "name": "Calgary"
+        },
+        {
+            "address": [
+                34.5058282,
+                -84.9577303
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/1210BAPS%20Calhoun%20mandir.jpg",
+            "name": "Calhoun"
+        },
+        {
+            "address": [
+                43.437237,
+                -80.362324
+            ],
+            "image":"https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/1393BAPS%20Cambridge.jpg",
+            "name": "Cambridge"
+        },
+        {
+            "address": [
+                35.263137,
+                -81.237731
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/19charlotte4f.jpg",
+            "name": "Charlotte"
+        },
+        {
+            "address": [
+                34.969242,
+                -85.294679
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/932BAPS%20Shri%20Swaminarayan%20Mandir%20Chattanooga.jpg",
+            "name": "Chattanooga"
+        },
+        {
+            "address": [
+                39.9140696,
+                -74.9615154
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/20cherry-hill.jpg",
+            "name": "Cherry Hill"
+        },
+        {
+            "address": [
+                41.971879,
+                -88.207027
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/21mandirss.jpg",
+            "name": "Chicago"
+        },
+        {
+            "address": [
+                39.283858,
+                -84.474394
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/900cincinnati.jpg",
+            "name": "Cincinnati"
+        },
+        {
+            "address": [
+                29.4972707,
+                -95.1265191
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/961Clearlake-f.jpg",
+            "name": "Clear Lake"
+        },
+        {
+            "address": [
+                41.2268913,
+                -81.7876444
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/22YJ0A2054.JPG",
+            "name": "Cleveland"
+        },
+        {
+            "address": [
+                40.846384,
+                -74.1557658
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/25Clifton.jpg",
+            "name": "Clifton"
+        },
+        {
+            "address": [
+                34.022494,
+                -81.09077
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/-1Mandirf.jpg",
+            "name": "Columbia, SC"
+        },
+        {
+            "address": [
+                35.6083005,
+                -87.0213749
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/99701Mandirf.jpg",
+            "name": "Columbia, TN"
+        },
+        {
+            "address": [
+                39.9771705,
+                -82.8559748
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/26Columbus_OH3__1_.JPG",
+            "name": "Columbus"
+        },
+        {
+            "address": [
+                27.804728,
+                -97.470645
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/27IMG_1186.JPG",
+            "name": "Corpus Christi"
+        },
+        {
+            "address": [
+                42.188885,
+                -88.310422
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/1389crystallake.jpg",
+            "name": "Crystal Lake"
+        },
+        {
+            "address": [
+                33.7832,
+                -97.72956
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/28dallasf.jpg",
+            "name": "Dallas"
+        },
+        {
+            "address": [
+                39.8309534,
+                -84.1151539
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/29daytonmandirf.jpg",
+            "name": "Dayton"
+        },
+        {
+            "address": [
+                39.6730556,
+                -75.6161111
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/30delawaremandirf.jpg",
+            "name": "Delaware"
+        },
+        {
+            "address": [
+                42.2835425,
+                 -83.4859219
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/31detroit.jpg",
+            "name": "Detroit"
+        },
+        {
+            "address": [
+                31.280091,
+                -85.4517565
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/1329Dothan%20Mandir-f.jpg",
+            "name": "Dothan"
+        },
+        {
+            "address": [
+                40.506501,
+                -74.374812
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/8edison%20%20new.jpg",
+            "name": "Edison"
+        },
+        {
+            "address": [
+                53.42376,
+                -113.3969287
+            ],
+            "image": "NONE",
+            "name": "Edmonton"
+        },
+        {
+            "address": [
+                37.960526,
+                -87.398251
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/1390EvensvilleMandir.jpg",
+            "name": "Evansville"
+        },
+        {
+            "address": [
+                42.1155107,
+                -71.2353429
+            ],
+            "image": "https://www.baps.org/Data/Sites/1/Media/ModuleRotatorImages/BAPS_Shri_Swaminarayan_Mandir_Sharon_Southboston_MA.JPG",
+            "name": "Fall River"
+        },
+        {
+            "address": [
+                55.000000,
+                -115.000000
+            ],
+            "image": "https://www.baps.org/Data/Sites/1/Media/Locationimages/Shrines/901/murtisf.jpg",
+            "name": "Fort McMurray"
+        },
+        {
+            "address": [
+                36.761899,
+                -119.8278605
+            ],
+            "image": "NONE",
+            "name": "Fresno"
+        },
+        {
+            "address": [
+                36.0760643,
+                -79.9919108
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/965greesnboro.jpg",
+            "name": "Greensboro"
+        },
+        {
+            "address": [
+                34.8432696,
+                -82.3230889
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/1302Greenville-Mandir.jpg",
+            "name": "Greenville"
+        },
+        {
+            "address": [
+                40.237815,
+                -76.831467
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/34harriburgmandir.jpg",
+            "name": "Harrisburg"
+        },
+        {
+            "address": [
+                41.7202913,
+                -72.7192346
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/35hartfordmandirf.jpg",
+            "name": "Hartford"
+        },
+        {
+            "address": [
+                29.6070559,
+                -95.5790908
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/3636-houston.jpg",
+            "name": "Houston"
+        },
+        {
+            "address": [
+                34.7385061,
+                -86.8064286
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/996Huntsvill_mandir_outside.jpg",
+            "name": "Huntsville"
+        },
+        {
+            "address": [
+                39.6089258,
+                -86.1081817
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/37indianapolismandirf.jpg",
+            "name": "Indianapolis"
+        },
+        {
+            "address": [
+                30.4160867,
+                -88.6487281
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/41jakson4f.jpg",
+            "name": "Jackson"
+        },
+        {
+            "address": [
+                30.3515897,
+                -81.5714915
+            ],
+            "image": "NONE",
+            "name": "Jacksonville"
+        },
+        {
+            "address": [
+                40.76887 ,
+                -74.0443679
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/40jerse4f.jpg",
+            "name": "Jersey City"
+        },
+        {
+            "address": [
+                39.0111587,
+                -94.7624011
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/857Mandir-front-f.jpg",
+            "name": "Kansas City"
+        },
+        {
+            "address": [
+                36.0089604,
+                -83.7760109
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/879Knoxville%20mandir-f.jpg",
+            "name": "Knoxville"
+        },
+        {
+            "address": [
+                40.297345,
+                -75.310859
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/44Lansdale%20Mandir%20Photo.jpg",
+            "name": "Lansdale"
+        },
+        {
+            "address": [
+                34.778142,
+                -92.207296
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/45littlerock01f.jpg",
+            "name": "Little Rock"
+        },
+        {
+            "address": [
+                40.763841,
+                -73.4104227
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/966Long%20Island%20mandir.jpg",
+            "name": "Long Island"
+        },
+        {
+            "address": [
+                33.9766479,
+                -117.696122
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/43la1.jpg",
+            "name": "Los Angeles"
+        },
+        {
+            "address": [
+                38.3965019,
+                -85.5895145
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/1321BAPS%20Louisville%20mandir.jpg",
+            "name": "Louisville"
+        },
+        {
+            "address": [
+                33.585631,
+                -101.922544
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/46lubbockmandirf.jpg",
+            "name": "Lubbock"
+        },
+        {
+            "address": [
+                28.140741,
+                -80.631642
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/1233BAPS%20Melbourne%20FL%20USA%20Mandir.jpg",
+            "name": "Melbourne"
+        },
+        {
+            "address": [
+                35.0750361,
+                -89.9032972
+            ],
+            "image": "NONE",
+            "name": "Memphis"
+        },
+        {
+            "address": [
+                26.5123061,
+                -80.0597585
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/48miami4f.jpg",
+            "name": "Miami"
+        },
+        {
+            "address": [
+                43.090454,
+                -88.147592
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/1387Milwaukee.jpg",
+            "name": "Milwaukee"
+        },
+        {
+            "address": [
+                45.073086,
+                -93.309242
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/49minneapolismandirf.jpg",
+            "name": "Minneapolis"
+        },
+        {
+            "address": [
+                36.192779,
+                -86.606848
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/50nashvillemandirf.jpg",
+            "name": "Nashville"
+        },
+        {
+            "address": [
+                41.2381525,
+                -73.0187276
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/1397BAPSShriSwaminarayanMandirNewHaven.jpg",
+            "name": "New Haven"
+        },
+        {
+            "address": [
+                29.970179,
+                -90.290897
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/1299Exterior%20Picture-f.jpg",
+            "name": "New Orleans"
+        },
+        {
+            "address": [
+                40.7544444,
+                -73.8197222
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/51Mandir%20Frontf.jpg",
+            "name": "New York"
+        },
+        {
+            "address": [
+                38.9072602,
+                -77.4750117
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/1339Northern%20virginia%20Mandir.jpg",
+            "name": "Northern Virginia"
+        },
+        {
+            "address": [
+                35.5064912,
+                -97.600028
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/895BAPS%20Swaminarayan%20Mandir%20Oklahoma.jpg",
+            "name": "Oklahoma"
+        },
+        {
+            "address": [
+                33.5304325,
+                -80.8380264
+            ],
+            "image": "NONE",
+            "name": "Orangeburg"
+        },
+        {
+            "address": [
+                28.472959,
+                -81.398798
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/52Orlando_mandir_pic.jpg",
+            "name": "Orlando"
+        },
+        {
+            "address": [
+                40.8430378,
+                -74.4366723
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/53parsipannyf.jpg",
+            "name": "Parsippany"
+        },
+        {
+            "address": [
+                32.476465,
+                -83.74509
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/54perry06-f.jpg",
+            "name": "Perry"
+        },
+        {
+            "address": [
+                40.163769,
+                -74.872136
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/55BAPS%20Phila_01f.jpg",
+            "name": "Philadelphia"
+        },
+        {
+            "address": [
+                33.4907547,
+                -112.1139406
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/56Phoenix%20mandir.jpg",
+            "name": "Phoenix"
+        },
+        {
+            "address": [
+                40.5282446,
+                -74.4353676
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/57Piscatway.jpg",
+            "name": "Piscataway"
+        },
+        {
+            "address": [
+                40.488053,
+                -80.1151854
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/1204Mandir.JPG",
+            "name": "Pittsburgh"
+        },
+        {
+            "address": [
+                45.4367776,
+                -122.7939664
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/58portland.jpg",
+            "name": "Portland"
+        },
+        {
+            "address": [
+                35.837882,
+                -78.8116001
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/65Raleigh.jpg",
+            "name": "Raleigh"
+        },
+        {
+            "address": [
+                37.42786757969609,
+                -77.43852281349348
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/64richmondf.jpg",
+            "name": "Richmond"
+        },
+        {
+            "address": [
+                37.31992765876006,
+                -80.03248370225327
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/963roanoke_mandirf.jpg",
+            "name": "Roanoke"
+        },
+        {
+            "address": [
+                40.2535138493265,
+                -74.57747803120775
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/865New%20robbinsiville%202.jpeg",
+            "name": "Robbinsville"
+        },
+        {
+            "address": [
+                38.567696694366376,
+                -121.29612300057123
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/892Sacramentof.jpg",
+            "name": "Sacramento"
+        },
+        {
+            "address": [
+                29.59154988909947,
+                -98.58533908914418
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/66sanantoniof.jpg",
+            "name": "San Antonio"
+        },
+        {
+            "address": [
+                37.72461907119462,
+                -122.42422816011363
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/67sf1f.jpg",
+            "name": "San Francisco"
+        },
+        {
+            "address": [
+                37.44909924872944,
+                -121.91854363128562
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/68Mandirf.jpg",
+            "name": "San Jose"
+        },
+        {
+            "address": [
+                32.001035956790226,
+                -81.27943384491402
+            ],
+            "image": "NONE",
+            "name": "Savannah"
+        },
+        {
+            "address": [
+                43.767380719970504,
+                -79.2927563734317
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/1202scarborough.jpg",
+            "name": "Scarborough"
+        },
+        {
+            "address": [
+                41.43928088148309,
+                -75.66112354466681
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/70scrantonmandirf.jpg",
+            "name": "Scranton"
+        },
+        {
+            "address": [
+                47.68666385165397,
+                -122.1334937463179
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/88020151004_122649.jpg",
+            "name": "Seattle"
+        },
+        {
+            "address": [
+                42.11577626058848,
+                -71.23563420231761
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/32Soth%20Boston%20BAPS%20mandir.jpg",
+            "name": "South Boston"
+        },
+        {
+            "address": [
+                42.057149527379835,
+                -72.6488874716354
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/71springfield.jpg",
+            "name": "Springfield"
+        },
+        {
+            "address": [
+                38.757168040906976,
+                -90.42174571405948
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/72stlouisef.jpg",
+            "name": "St. Louis"
+        },
+        {
+            "address": [
+                42.61479475606899,
+                -83.03263272928956
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/1338Sterlinghightsmandir.jpg",
+            "name": "Sterling Heights"
+        },
+        {
+            "address": [
+                43.12684600796817,
+                -76.12408467345146
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/73Syracus%20Mandir.jpg",
+            "name": "Syracuse"
+        },
+        {
+            "address": [
+                28.055560558224123,
+                -82.33297697568193
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/FullSizeImages/74Tampa%20Mandir%20front%20view.jpg",
+            "name": "Tampa"
+        },
+        {
+            "address": [
+                43.73874812057301,
+                -79.62582200226808
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/75toronto-mandir.jpg",
+            "name": "Toronto"
+        },
+        {
+            "address": [
+                32.24158719523817,
+                -110.97758588723751
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/76tucsonmandirf.jpg",
+            "name": "Tucson"
+        },
+        {
+            "address": [
+                37.01632224511321,
+                -76.44160441410658
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/78VaBeach_Mandir%20Outside%20Shot-f.jpg",
+            "name": "Virginia Beach"
+        },
+        {
+            "address": [
+                40.24405065930489,
+                -75.13993108518206
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/882BAPS_Warrington_01f.jpg",
+            "name": "Warrington"
+        },
+        {
+            "address": [
+                39.05678677206194,
+                -76.91582340240613
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/79baps-wdc-address.jpg",
+            "name": "Washington DC"
+        },
+        {
+            "address": [
+                42.28666830602101,
+                -71.64562823909596
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/1384Westborough%20Mandir.jpg",
+            "name": "Westborough"
+        },
+        {
+            "address": [
+                40.92937793109703,
+                -73.87132361584625
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/80westchester.jpg",
+            "name": "Westchester"
+        },
+        {
+            "address": [
+                42.285180936161986,
+                -83.05456443114805
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/1337Windsor%20Mandir.jpg",
+            "name": "Windsor"
+        },
+        {
+            "address": [
+                49.69419596101522,
+                -97.1343700578943
+            ],
+            "image": "https://www.baps.org//Data/Sites/1/Media/LocationImages/1324BAPS%20Shri%20Swaminarayan%20Mandir%20Winnipeg.jpg",
+            "name": "Winnipeg"
+        }
+    ]
+}
